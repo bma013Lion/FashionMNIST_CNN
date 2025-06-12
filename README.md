@@ -83,7 +83,3 @@ The CNN consists of:
 - Two convolutional layers with ReLU activation and max pooling
 - Dropout for regularization
 - Two fully connected layers for classification
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
